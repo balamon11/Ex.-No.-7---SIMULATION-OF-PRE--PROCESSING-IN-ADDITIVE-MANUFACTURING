@@ -50,8 +50,8 @@
 ![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/WhatsApp%20Image%202026-03-15%20at%208.12.58%20PM.jpeg?raw=true)
 
 
-### Name:ABHINAV GURU R
-### Register Number:212225040009
+### Name:BALAJI T
+### Register Number:212225240019
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
